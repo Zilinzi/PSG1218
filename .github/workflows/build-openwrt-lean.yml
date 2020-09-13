@@ -7,7 +7,7 @@
 # Blog: https://p3terx.com
 #=================================================
 
-name: Build OpenWrt PSG1218A
+name: Build OpenWrt PSG1218A 
 
 on:
   repository_dispatch:
